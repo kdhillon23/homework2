@@ -1,7 +1,7 @@
 body {
-    background-color: black;
+    background-color: #000000;
     font-family: 'Lucida Grance', sans-serif;
-    color: white;
+    color: #FFFFFF;
 }
 
 h1 {
@@ -48,7 +48,7 @@ div {
 #yellow {
     background-color: #ffff00;
     text-align: right;
-    color: black;
+    color: #000000;
 }
 
 #yellow h2{
